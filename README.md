@@ -1,4 +1,4 @@
-# 👤 User Management System (JSP + Servlet + JDBC + MySQL)
+# 👤 User Management System (JSP + Servlet + Tomcat + JDBC + MySQL)
 
 This is a simple **web-based User Management System** built using **JSP**, **Servlet**, **JDBC**, and **MySQL**, deployed on **Apache Tomcat**. The application allows CRUD operations (Create, Read, Update, Delete) on user data through a browser interface.
 
